@@ -11,8 +11,8 @@ var FILE_ENCODING = "utf-8";
 var indentation = "    ";
 
 var buildSpec = {
-    gitUrl: "https://github.com/timdown/rangy.git",
-    gitBranch: "master"
+    gitUrl: "https://github.com/pannath/rangy.git",
+    gitBranch: "v1_3_0_0"
 };
 
 var buildDir = "dist/";
